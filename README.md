@@ -9,14 +9,17 @@ Print out source code on Paper easily
 
 ![input&Output](https://images.gitee.com/uploads/images/2019/0203/204221_526c4c12_1676399.png "io.png")
 
+## Version
+0.7.1
+
 ## Download & Tutorial
 ### Binary Files
-1.**Download**  `Source_Code_Printer-*-bin.zip` from the  [Attachment Page](https://gitee.com/ja_coding/source-code-printer/attach_files).
+1.**Download**  `Source_Code_Printer-*-bin.zip` from [SourceForge.net](https://sourceforge.net/projects/source-code-printer/files/0.7/0.7.1/Source_Code_Printer-0.7.1-bin.zip/download).
 
 2.Manual: Unzip it, and `doc/How-to-Use.pdf` is the manual.
 
 ### Source Code
-Download `Source_Code_Printer-*-src.zip` from the [Attachment Page](https://gitee.com/ja_coding/source-code-printer/attach_files).
+Download `Source_Code_Printer-*-src.zip` from the [SourceForge.net](https://sourceforge.net/projects/source-code-printer/files/0.7/0.7.1/Source_Code_Printer-0.7.1-src.7z/download).
 
 <br/>
 
