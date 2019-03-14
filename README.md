@@ -1,4 +1,4 @@
-This is a mirror repository. Latest version will be publish at [Gitee](https://gitee.com/ja_coding/source-code-printer/).
+This is a **mirror repository**. Latest version will be publish at [Gitee](https://gitee.com/ja_coding/source-code-printer/).
 
 <br/>
 
