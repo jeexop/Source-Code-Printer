@@ -3,7 +3,7 @@ This is a **mirror repository**. Latest version will be publish at [Gitee](https
 <br/>
 
 # Source-Code-Printer
-Print out source code on Paper easily
+Print out whole project's source code on Paper easily.
 
 <br/>
 
