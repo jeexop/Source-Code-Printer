@@ -10,7 +10,8 @@ Print out whole project's source code on Paper easily.
 ![input&Output](https://images.gitee.com/uploads/images/2019/0203/204221_526c4c12_1676399.png "io.png")
 
 ## Version
-0.7.1
+0.7.1 <br/>
+[2019-01-07]
 
 ## Download & Tutorial
 ### Binary Files
