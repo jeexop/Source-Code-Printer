@@ -86,8 +86,6 @@ C# for GUI ,
 Visual Basic for Applications (VBA) for generating TOC
 
 #### Build With
-iText RTF library (iText-rtf-2.1.7) : Generate RTF document.
-<br/>
 GNU cflow 1.5 : Generate Function Call Graph for C Language Source files.
 
 #### Intended Audience
