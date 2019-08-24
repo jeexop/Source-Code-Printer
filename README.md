@@ -1,4 +1,4 @@
-This is a **mirror repository**. Latest version will be publish at [Gitee](https://gitee.com/ja_coding/source-code-printer/).
+[Mirror Repo on Gitee](https://gitee.com/ja_coding/source-code-printer/).
 
 <br/>
 
@@ -12,6 +12,11 @@ Print out whole project's source code on Paper easily.
 ## Version
 0.7.1 (alpha) <br/>
 [2019-01-07]
+
+## TODO
+fix some bugs <br/>
+more convinent UI <br/>
+auto syntax highlighting
 
 ## Download & Tutorial
 ### Binary Files
