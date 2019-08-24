@@ -10,7 +10,7 @@ Print out whole project's source code on Paper easily.
 ![input&Output](https://images.gitee.com/uploads/images/2019/0203/204221_526c4c12_1676399.png "io.png")
 
 ## Version
-0.7.1 <br/>
+0.7.1 (alpha) <br/>
 [2019-01-07]
 
 ## Download & Tutorial
@@ -58,7 +58,7 @@ Note that it is not designed to replace source code browser, but you can spend m
 - Windows XP/Win 7/8/10
 - Java Runtime Environment 1.8
 - .Net Framework 3.5
-- Microsoft Office 2007 +
+- Microsoft Office 2007
 
 ## Screen Shot
 ### (1) GUI:
